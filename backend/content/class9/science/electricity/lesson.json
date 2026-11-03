@@ -1,0 +1,96 @@
+{
+  "content_label": "DEMONSTRATION CONTENT — paraphrased for the ArivuPath hackathon MVP. Not an official reproduction of any specific textbook. Replace with approved board content before real classroom use.",
+  "class_level": 9,
+  "subject": "science",
+  "chapter_id": "class9-science-electricity",
+  "chapter_title_en": "Electricity",
+  "chapter_title_ta": "மின்சாரம்",
+  "summary_en": "This chapter introduces electric charge, current, potential difference, resistance, Ohm's law, and simple circuits, building the basic ideas needed to understand how electricity flows and does work.",
+  "summary_ta": "இந்த பாடம் மின்னூட்டம், மின்னோட்டம், மின்னழுத்த வேறுபாடு, மின்தடை, ஓம் விதி மற்றும் எளிய மின்சுற்றுகள் ஆகியவற்றை அறிமுகப்படுத்துகிறது. மின்சாரம் எவ்வாறு ஓடுகிறது, எவ்வாறு வேலை செய்கிறது என்பதைப் புரிந்துகொள்ளத் தேவையான அடிப்படைக் கருத்துகளை இது உருவாக்குகிறது.",
+  "concepts": [
+    {
+      "concept_id": "electric-charge",
+      "title_en": "Electric charge",
+      "title_ta": "மின்னூட்டம்",
+      "difficulty": 1,
+      "passages": [
+        "Electric charge is a basic property of matter. There are two kinds of charge: positive and negative. Like charges repel each other and unlike charges attract. Charge is measured in coulombs (C).",
+        "An object becomes charged when electrons move from one object to another. Gaining electrons makes an object negatively charged; losing electrons makes it positively charged."
+      ],
+      "passages_ta": [
+        "மின்னூட்டம் என்பது பொருளின் ஒரு அடிப்படைப் பண்பு. நேர்மின்னூட்டம், எதிர்மின்னூட்டம் என இரண்டு வகை உண்டு. ஒரே வகை மின்னூட்டங்கள் ஒன்றையொன்று விலக்கும்; வெவ்வேறு வகை மின்னூட்டங்கள் ஒன்றையொன்று கவரும். மின்னூட்டம் கூலும் (C) அலகில் அளக்கப்படுகிறது.",
+        "எலக்ட்ரான்கள் ஒரு பொருளில் இருந்து மற்றொன்றுக்கு நகரும்போது பொருள் மின்னூட்டம் பெறுகிறது."
+      ]
+    },
+    {
+      "concept_id": "electric-current",
+      "title_en": "Electric current",
+      "title_ta": "மின்னோட்டம்",
+      "difficulty": 2,
+      "passages": [
+        "Electric current is the rate of flow of electric charge through a conductor. It is measured in amperes (A). One ampere equals one coulomb of charge flowing per second.",
+        "Current flows in a closed circuit only. Conventional current is taken to flow from the positive terminal to the negative terminal of a cell, which is opposite to the direction electrons actually move."
+      ],
+      "passages_ta": [
+        "மின்னோட்டம் என்பது ஒரு கடத்தி வழியாக மின்னூட்டம் ஓடும் வீதமாகும். இது ஆம்பியர் (A) அலகில் அளக்கப்படுகிறது. ஒரு வினாடியில் ஒரு கூலும் மின்னூட்டம் ஓடினால் அது ஒரு ஆம்பியர்.",
+        "மின்னோட்டம் மூடிய சுற்றில் மட்டுமே ஓடும். வழக்கமான மின்னோட்டம் கலத்தின் நேர் முனையிலிருந்து எதிர் முனைக்கு ஓடுவதாகக் கருதப்படுகிறது."
+      ]
+    },
+    {
+      "concept_id": "potential-difference",
+      "title_en": "Potential difference (voltage)",
+      "title_ta": "மின்னழுத்த வேறுபாடு",
+      "difficulty": 2,
+      "passages": [
+        "Potential difference between two points is the work done to move a unit charge from one point to the other. It is measured in volts (V). A cell or battery provides the potential difference that pushes current through a circuit.",
+        "Potential difference is measured using a voltmeter connected in parallel across the two points."
+      ],
+      "passages_ta": [
+        "இரண்டு புள்ளிகளுக்கு இடையேயான மின்னழுத்த வேறுபாடு என்பது ஒரு அலகு மின்னூட்டத்தை ஒரு புள்ளியிலிருந்து மற்றொன்றுக்கு நகர்த்தச் செய்யப்படும் வேலையாகும். இது வோல்ட் (V) அலகில் அளக்கப்படுகிறது. கலம் அல்லது மின்கலம் சுற்றில் மின்னோட்டத்தைத் தள்ளும் மின்னழுத்த வேறுபாட்டை வழங்குகிறது.",
+        "மின்னழுத்த வேறுபாடு வோல்ட்மீட்டர் மூலம் இணைசுற்றாக இணைத்து அளக்கப்படுகிறது."
+      ]
+    },
+    {
+      "concept_id": "resistance",
+      "title_en": "Resistance",
+      "title_ta": "மின்தடை",
+      "difficulty": 3,
+      "passages": [
+        "Resistance is the opposition offered by a conductor to the flow of current. It is measured in ohms. A conductor with high resistance allows less current for the same potential difference.",
+        "Resistance depends on the material, length, thickness (area of cross section) and temperature of the conductor. A longer wire has more resistance; a thicker wire has less resistance."
+      ],
+      "passages_ta": [
+        "மின்தடை என்பது மின்னோட்டம் ஓடுவதற்கு ஒரு கடத்தி ஏற்படுத்தும் எதிர்ப்பாகும். இது ஓம் அலகில் அளக்கப்படுகிறது. அதிக மின்தடை உள்ள கடத்தி, அதே மின்னழுத்த வேறுபாட்டிற்கு குறைவான மின்னோட்டத்தையே அனுமதிக்கும்.",
+        "மின்தடை கடத்தியின் பொருள், நீளம், பருமன் (குறுக்குவெட்டுப் பரப்பு) மற்றும் வெப்பநிலையைப் பொறுத்தது. நீளமான கம்பிக்கு அதிக மின்தடை; பருமனான கம்பிக்கு குறைவான மின்தடை."
+      ]
+    },
+    {
+      "concept_id": "ohms-law",
+      "title_en": "Ohm's law",
+      "title_ta": "ஓம் விதி",
+      "difficulty": 3,
+      "passages": [
+        "Ohm's law states that, at constant temperature, the current through a conductor is directly proportional to the potential difference across it. This gives the relation V = I x R, where V is potential difference, I is current and R is resistance.",
+        "If potential difference increases while resistance stays the same, the current increases in the same proportion."
+      ],
+      "passages_ta": [
+        "ஓம் விதி: நிலையான வெப்பநிலையில், ஒரு கடத்தி வழியாக ஓடும் மின்னோட்டம் அதன் இரு முனைகளுக்கு இடையேயான மின்னழுத்த வேறுபாட்டிற்கு நேர் விகிதத்தில் இருக்கும். இதிலிருந்து V = I x R என்ற தொடர்பு கிடைக்கிறது. இங்கு V மின்னழுத்த வேறுபாடு, I மின்னோட்டம், R மின்தடை.",
+        "மின்தடை மாறாமல் மின்னழுத்த வேறுபாடு அதிகரித்தால், மின்னோட்டமும் அதே விகிதத்தில் அதிகரிக்கும்."
+      ]
+    },
+    {
+      "concept_id": "electric-circuit",
+      "title_en": "Electric circuit",
+      "title_ta": "மின்சுற்று",
+      "difficulty": 1,
+      "passages": [
+        "An electric circuit is a continuous closed path through which current flows. A simple circuit contains a cell, connecting wires, a switch and a device such as a bulb.",
+        "When the switch is open the path is broken and no current flows; when the switch is closed the circuit is complete and current flows, lighting the bulb."
+      ],
+      "passages_ta": [
+        "மின்சுற்று என்பது மின்னோட்டம் ஓடுவதற்கான தொடர்ச்சியான மூடிய பாதையாகும். ஒரு எளிய சுற்றில் கலம், இணைப்புக் கம்பிகள், சுவிட்ச் மற்றும் விளக்கு போன்ற சாதனம் இருக்கும்.",
+        "சுவிட்ச் திறந்திருந்தால் பாதை துண்டிக்கப்பட்டு மின்னோட்டம் ஓடாது; சுவிட்ச் மூடியிருந்தால் சுற்று முழுமையடைந்து மின்னோட்டம் ஓடி விளக்கு எரியும்."
+      ]
+    }
+  ]
+}
